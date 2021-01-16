@@ -1,0 +1,1 @@
+\relative { g'1 e1 \bar "||" c2. c'4 \bar "|." }
